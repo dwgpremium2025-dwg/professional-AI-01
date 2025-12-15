@@ -33,6 +33,10 @@ const IconBrandLogo = () => (
 
 const EXTERIOR_PRESETS = [
   {
+    label: "Modern Village (หมู่บ้านจัดสรร)",
+    value: "Transform into a lively modern housing village. Add large transplanted trees with wooden supports (props) following new landscaping styles. Lush green lawns. Clean, well-kept village roads. Modern architecture, bright atmosphere."
+  },
+  {
     label: "Modern Minimalist",
     value: `A wide-angle architectural photograph of a luxurious modern minimalist building, viewed from the far end of its backyard under a bright clear blue sky. The two-story structure is characterized by clean white cubic forms, large floor-to-ceiling glass windows, and glass balcony railings. A long rectangular swimming pool with clear turquoise water runs parallel to the entire length of the building's main facade. A large, manicured green lawn area is situated to the left of the pool, and a wide paved walkway made of large light-colored stone tiles borders the pool on all other sides. Several wooden sun loungers with white cushions are arranged on the poolside patio on the right. A covered outdoor lounge area with furniture is integrated into the ground floor of the building. The landscaping features mature palm trees and various tropical plants, creating a serene and luxurious resort-like atmosphere. Bright midday sunlight casts sharp shadows.`
   },
