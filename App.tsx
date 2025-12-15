@@ -96,6 +96,20 @@ const EXTERIOR_PRESETS = [
 
 const INTERIOR_PRESETS = [
   {
+    label: "Plan to 3D",
+    value: `Envisioning Interior Spaces
+
+I'm now focusing on generating interior images for the bedroom and bathroom. The goal is realistic perspective views based on the provided floor plans. Specifically, I am concentrating on a view from the bedroom entrance, encompassing the bed, wardrobe, and bathroom access. I'm aiming for a modern, minimalist, and warm aesthetic in the image.
+
+Crafting Detailed Interiors
+
+I'm developing a specific vision for the bedroom and bathroom interior shots. I am now concentrating on the bedroom perspective, as viewed from the entrance. My focus is on representing the bed, built-in wardrobe, and bathroom access. I'm prioritizing a modern, minimalist design, emphasizing warm tones and textures like light wood, linen, and marble-like tile. Lighting and decor choices are being carefully considered to achieve a harmonious and inviting atmosphere within the image.
+
+Assessing Visual Accuracy
+
+I'm verifying that the image flawlessly translates the architectural plan into a 3D rendering. Every piece of furniture is correctly positioned and identified according to the original plan. The lighting and ambiance achieve the intended warmth, and I find no deviation from the requested criteria. Therefore, I can immediately share the image.`
+  },
+  {
     label: "Modern Living Room",
     value: "Interior design of a modern living room with large windows, natural light, beige sofa, wooden floor, minimalist decor, 8k resolution, photorealistic."
   },
